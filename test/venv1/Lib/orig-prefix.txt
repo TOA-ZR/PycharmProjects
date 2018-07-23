@@ -1,0 +1,1 @@
+C:\Users\jo\AppData\Local\conda\conda\envs\tenserflow
